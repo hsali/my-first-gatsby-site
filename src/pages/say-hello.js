@@ -8,3 +8,5 @@ const SayHello = () => {
         </div>
     )
 }
+
+export default SayHello
